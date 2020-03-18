@@ -50,6 +50,7 @@ body{
 .btn{
     width: 200px;
     border-radius: 50px;
+    margin-bottom: 10%;
     border: 0; 
     padding: 10px;
     font-size: medium;
@@ -64,10 +65,10 @@ body{
 
 img{
     width: 100%;
-    border-top-left-radius: 40%;
+    /* border-top-left-radius: 40%;
     border-top-right-radius: 40%;
     border-bottom-right-radius: 40%;
-    border-bottom-left-radius: 40%;
+    border-bottom-left-radius: 40%; */
     border-bottom: 3px solid rgba(11, 12, 12, 0.488);
     border-top: 3px solid rgba(11, 12, 12, 0.488);
     object-fit: cover;
